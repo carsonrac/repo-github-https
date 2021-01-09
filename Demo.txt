@@ -1,3 +1,5 @@
-This is a Demo.txt file
+This is a Demo.txt file.
 
 This is the second line
+
+This is the third line
